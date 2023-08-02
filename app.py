@@ -12,7 +12,7 @@ def predict_emotion():
     # Obtenha a entrada de texto do requisição POST 
      
     
-    if not input_text:
+    
         # Resposta a enviar se o input_text for indefinido
         
         # Resposta a enviar se o input_text não for indefinido
